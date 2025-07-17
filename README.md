@@ -1,1 +1,1 @@
-Intrest Rate Prediction
+Intrest Rate Classification
